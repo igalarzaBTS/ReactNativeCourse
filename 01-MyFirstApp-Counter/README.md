@@ -1,37 +1,7 @@
 
-# Flex App
+# Counter App
 
-Flex allows us to position the created components and relate them to each other to create the application interface. In this section, we will base on the three main flex blocks:
-
-- Box Object Model
-- Position
-- Flex Layout
-
-# Instructions
-
-To view all the created screens, please comment on the screen you want to see in the "App.tsx" class
-
-```
-  App.tsx
+In this application we will create a counter app with the objective of updating the state of the screen to update the UI and implement the button actions with "TouchableOpacity"
 
 
-  return (
-    <SafeAreaView style={{ flex: 1, backgroundColor: '#404985', }}>
-    {/* <BoxObjectModelScreen /> */}
-    {/* < DimensionsScreen /> */}
-    {/* <RelativePositionScreen /> */}
-    {/* <AbsolutePositionScreen /> */}
-    {/* <FlexScreen /> */}
-    <FlexHomework />
-    </SafeAreaView>
-  )
-```
-
-# Screenshots
-
-### Absolute Position
-### Box Model
-### Dimensions
-### Flex
-### Relative Position
-### Homework
+![CounterApp](https://github.com/igalarzaBTS/ReactNativeCourse/assets/94064400/0b924c19-4db4-4e5d-a4dc-4b666bbe8379)
